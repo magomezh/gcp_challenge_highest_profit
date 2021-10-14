@@ -33,4 +33,4 @@ Part 2:
 * Printed the top 20 rows with the highest profit values, using 'head()' function. -- **4th Output.**
 
 Part 3:
-* Produced solution produces three printed output answers and a JSON file. 
+* Produced solution -- three printed output answers and a JSON file. 
