@@ -1,4 +1,4 @@
-# **Highest Profit Challenge**
+# Highest Profit Challenge
 
 ## Background
 ___
