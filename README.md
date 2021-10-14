@@ -13,7 +13,7 @@ ___
 ## Output
 ___
 
-To run output -- click on run.bat
+To run -- click on run.bat
 
 ## Methodology:
 ___
