@@ -2,6 +2,8 @@
 # importing pandas library
 import pandas as pd
 
+# suppressing warning message
+pd.options.mode.chained_assignment = None
 
 # ## Part 1
 
